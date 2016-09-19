@@ -1,0 +1,3 @@
+Chips,5
+Eggs Bennie,12
+Mini Pizza,16
